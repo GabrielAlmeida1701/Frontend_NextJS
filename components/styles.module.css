@@ -1,0 +1,4 @@
+.contentArea {
+    display: inline-flex;
+    flex-flow: column;
+}
